@@ -22,3 +22,7 @@ My **first Power BI dashboard project**, where I analyzed telecom customer churn
 ## What's Next
 
 This is my first and basic dashboard, and I'll continue improving it by exploring more advanced Power BI features and building more projects as I learn.
+
+## Connect with Me
+
+I'm currently learning Business Analytics, Power BI, SQL, Excel, and Data Visualization. Feedback and suggestions are always welcome!
